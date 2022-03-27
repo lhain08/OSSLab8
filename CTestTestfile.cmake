@@ -22,4 +22,6 @@ add_test(Comp-25 "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tut
 set_tests_properties(Comp-25 PROPERTIES  PASS_REGULAR_EXPRESSION "-25 is (-nan|nan|0)" _BACKTRACE_TRIPLES "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;53;add_test;/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;65;do_test;/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;0;")
 add_test(Comp0.0001 "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "0.0001")
 set_tests_properties(Comp0.0001 PROPERTIES  PASS_REGULAR_EXPRESSION "0.0001 is 0.01" _BACKTRACE_TRIPLES "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;53;add_test;/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;66;do_test;/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;0;")
+add_test(Comp4096 "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "4096")
+set_tests_properties(Comp4096 PROPERTIES  PASS_REGULAR_EXPRESSION "4096 is 64" _BACKTRACE_TRIPLES "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;53;add_test;/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;66;do_test;/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/CMakeLists.txt;0;")
 subdirs("MathFunctions")
