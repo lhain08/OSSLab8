@@ -1,10 +1,10 @@
-Start testing: Mar 26 22:11 EDT
+Start testing: Mar 26 22:31 EDT
 ----------------------------------------------------------
 1/9 Testing: Runs
 1/9 Test: Runs
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "25"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Runs" start time: Mar 26 22:11 EDT
+"Runs" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 25 to be 5 using log and exp
@@ -20,10 +20,10 @@ Computing sqrt of 25 to be 5
 Computing sqrt of 25 to be 5
 The square root of 25 is 5
 <end of output>
-Test time =   0.02 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Passed.
-"Runs" end time: Mar 26 22:11 EDT
+"Runs" end time: Mar 26 22:31 EDT
 "Runs" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -31,7 +31,7 @@ Test Passed.
 2/9 Test: Usage
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Usage" start time: Mar 26 22:11 EDT
+"Usage" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 /Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial Version 1.0
@@ -41,7 +41,7 @@ Test time =   0.01 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[Usage:.*number]
-"Usage" end time: Mar 26 22:11 EDT
+"Usage" end time: Mar 26 22:31 EDT
 "Usage" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -49,7 +49,7 @@ Required regular expression found. Regex=[Usage:.*number]
 3/9 Test: Comp4
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "4"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Comp4" start time: Mar 26 22:11 EDT
+"Comp4" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 4 to be 2 using log and exp
@@ -69,7 +69,7 @@ Test time =   0.01 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[4 is 2]
-"Comp4" end time: Mar 26 22:11 EDT
+"Comp4" end time: Mar 26 22:31 EDT
 "Comp4" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -77,7 +77,7 @@ Required regular expression found. Regex=[4 is 2]
 4/9 Test: Comp9
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "9"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Comp9" start time: Mar 26 22:11 EDT
+"Comp9" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 9 to be 3 using log and exp
@@ -93,11 +93,11 @@ Computing sqrt of 9 to be 3
 Computing sqrt of 9 to be 3
 The square root of 9 is 3
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[9 is 3]
-"Comp9" end time: Mar 26 22:11 EDT
+"Comp9" end time: Mar 26 22:31 EDT
 "Comp9" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -105,7 +105,7 @@ Required regular expression found. Regex=[9 is 3]
 5/9 Test: Comp5
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "5"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Comp5" start time: Mar 26 22:11 EDT
+"Comp5" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 5 to be 2.23607 using log and exp
@@ -121,11 +121,11 @@ Computing sqrt of 5 to be 2.23607
 Computing sqrt of 5 to be 2.23607
 The square root of 5 is 2.23607
 <end of output>
-Test time =   0.01 sec
+Test time =   0.00 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[5 is 2.236]
-"Comp5" end time: Mar 26 22:11 EDT
+"Comp5" end time: Mar 26 22:31 EDT
 "Comp5" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -133,7 +133,7 @@ Required regular expression found. Regex=[5 is 2.236]
 6/9 Test: Comp7
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "7"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Comp7" start time: Mar 26 22:11 EDT
+"Comp7" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 7 to be 2.64575 using log and exp
@@ -149,11 +149,11 @@ Computing sqrt of 7 to be 2.64575
 Computing sqrt of 7 to be 2.64575
 The square root of 7 is 2.64575
 <end of output>
-Test time =   0.01 sec
+Test time =   0.02 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[7 is 2.645]
-"Comp7" end time: Mar 26 22:11 EDT
+"Comp7" end time: Mar 26 22:31 EDT
 "Comp7" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -161,7 +161,7 @@ Required regular expression found. Regex=[7 is 2.645]
 7/9 Test: Comp25
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "25"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Comp25" start time: Mar 26 22:11 EDT
+"Comp25" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 25 to be 5 using log and exp
@@ -181,7 +181,7 @@ Test time =   0.01 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[25 is 5]
-"Comp25" end time: Mar 26 22:11 EDT
+"Comp25" end time: Mar 26 22:31 EDT
 "Comp25" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -189,16 +189,16 @@ Required regular expression found. Regex=[25 is 5]
 8/9 Test: Comp-25
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "-25"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Comp-25" start time: Mar 26 22:11 EDT
+"Comp-25" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 The square root of -25 is 0
 <end of output>
-Test time =   0.00 sec
+Test time =   0.01 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[-25 is (-nan|nan|0)]
-"Comp-25" end time: Mar 26 22:11 EDT
+"Comp-25" end time: Mar 26 22:31 EDT
 "Comp-25" time elapsed: 00:00:00
 ----------------------------------------------------------
 
@@ -206,7 +206,7 @@ Required regular expression found. Regex=[-25 is (-nan|nan|0)]
 9/9 Test: Comp0.0001
 Command: "/Users/liamhaining/Desktop/cmake/Help/Guide/tutorial/Step5/Tutorial" "0.0001"
 Directory: /Users/liamhaining/Desktop/Lab8-Step4
-"Comp0.0001" start time: Mar 26 22:11 EDT
+"Comp0.0001" start time: Mar 26 22:31 EDT
 Output:
 ----------------------------------------------------------
 Computing sqrt of 0.0001 to be 0.01 using log and exp
@@ -226,8 +226,8 @@ Test time =   0.01 sec
 ----------------------------------------------------------
 Test Pass Reason:
 Required regular expression found. Regex=[0.0001 is 0.01]
-"Comp0.0001" end time: Mar 26 22:11 EDT
+"Comp0.0001" end time: Mar 26 22:31 EDT
 "Comp0.0001" time elapsed: 00:00:00
 ----------------------------------------------------------
 
-End testing: Mar 26 22:11 EDT
+End testing: Mar 26 22:31 EDT
